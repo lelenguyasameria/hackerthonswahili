@@ -1,0 +1,10 @@
+/home/lelenguyasameria/guessing_game/guessing_game_server/target/debug/deps/actix_codec-e171e3b01fe62e33.rmeta: /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/home/lelenguyasameria/guessing_game/guessing_game_server/target/debug/deps/libactix_codec-e171e3b01fe62e33.rlib: /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/home/lelenguyasameria/guessing_game/guessing_game_server/target/debug/deps/actix_codec-e171e3b01fe62e33.d: /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs:
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs:
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs:
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs:

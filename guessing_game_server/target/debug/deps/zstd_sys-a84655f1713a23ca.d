@@ -1,0 +1,9 @@
+/home/lelenguyasameria/guessing_game/guessing_game_server/target/debug/deps/zstd_sys-a84655f1713a23ca.rmeta: /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs
+
+/home/lelenguyasameria/guessing_game/guessing_game_server/target/debug/deps/libzstd_sys-a84655f1713a23ca.rlib: /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs
+
+/home/lelenguyasameria/guessing_game/guessing_game_server/target/debug/deps/zstd_sys-a84655f1713a23ca.d: /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs /home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs
+
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/lib.rs:
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zstd_std.rs:
+/home/lelenguyasameria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.8+zstd.1.5.5/src/bindings_zdict_std.rs:
